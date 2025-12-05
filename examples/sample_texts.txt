@@ -1,0 +1,12 @@
+# Sample texts for testing sentiment analysis
+
+I absolutely love this product! It exceeded all my expectations.
+The customer service was terrible and unhelpful.
+The quality is decent for the price.
+Best purchase I've made all year!
+Completely disappointed with this experience.
+It works as expected, nothing special.
+Amazing features and great value for money!
+Worst product ever, total waste of money.
+Pretty good overall, would recommend.
+Not what I expected, very frustrating.

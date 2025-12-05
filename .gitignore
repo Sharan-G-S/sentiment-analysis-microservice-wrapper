@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+
+# Model cache
+.cache/
+transformers_cache/
+
+# Docker
+*.tar
+sentiment-api/
+
+# Dashboard files
+dashboard.pid
+dashboard.log
+dashboard_output.log
+
+# Environment
+.env

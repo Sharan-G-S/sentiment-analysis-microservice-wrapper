@@ -173,3 +173,7 @@ const response = await axios.post(
 ---
 
 **Repository:** https://github.com/Sharan-G-S/sentiment-analysis-microservice-wrapper
+
+---
+
+Made with 💚 Sharan G S
